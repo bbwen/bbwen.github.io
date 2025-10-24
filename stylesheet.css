@@ -137,4 +137,30 @@ body {
   font-family: Lato, Verdana, Helvetica, sans-serif;
   font-size: 14px;
   background: #eee;
-}*/
+}
+
+/* Custom avatar size - Force override with maximum specificity */
+body div.avatar-wrapper.mb-4 {
+  width: 300px !important;
+  height: 300px !important;
+  max-width: 300px !important;
+  max-height: 300px !important;
+}
+
+body img.avatar.rounded-full {
+  width: 300px !important;
+  height: 300px !important;
+  max-width: 300px !important;
+  max-height: 300px !important;
+}
+
+/* Override any inline styles with maximum specificity */
+body div.avatar-wrapper[style*="width: 200px"] {
+  width: 300px !important;
+  height: 300px !important;
+}
+
+body img.avatar[style*="width: 200px"] {
+  width: 300px !important;
+  height: 300px !important;
+}

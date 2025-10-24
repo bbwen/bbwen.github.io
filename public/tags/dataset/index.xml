@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataset | Bingbing Wen</title>
+    <link>https://bbwen.github.io/tags/dataset/</link>
+      <atom:link href="https://bbwen.github.io/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dataset</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bbwen.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Dataset</title>
+      <link>https://bbwen.github.io/tags/dataset/</link>
+    </image>
+    
+    <item>
+      <title>InfoVisDial: An Informative Visual Dialogue Dataset by Bridging Large Multimodal and Language Models</title>
+      <link>https://bbwen.github.io/publications/infovisdial/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://bbwen.github.io/publications/infovisdial/</guid>
+      <description>&lt;p&gt;We present InfoVisDial, a comprehensive visual dialogue dataset created by bridging large multimodal and language models to enable informative conversations about visual content. This work was conducted during an internship at Microsoft Azure AI.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

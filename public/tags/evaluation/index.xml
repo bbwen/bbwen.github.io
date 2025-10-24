@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evaluation | Bingbing Wen</title>
+    <link>https://bbwen.github.io/tags/evaluation/</link>
+      <atom:link href="https://bbwen.github.io/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evaluation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bbwen.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Evaluation</title>
+      <link>https://bbwen.github.io/tags/evaluation/</link>
+    </image>
+    
+    <item>
+      <title>ExpScore: Learning metrics for recommendation explanation</title>
+      <link>https://bbwen.github.io/publications/expscore-recommendation/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://bbwen.github.io/publications/expscore-recommendation/</guid>
+      <description>&lt;p&gt;We propose ExpScore, a framework for learning metrics to evaluate recommendation explanations, improving the quality and interpretability of recommendation systems. This work was presented at WWW 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

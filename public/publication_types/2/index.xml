@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Bingbing Wen</title>
+    <link>https://bbwen.github.io/publication_types/2/</link>
+      <atom:link href="https://bbwen.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bbwen.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>2</title>
+      <link>https://bbwen.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Know Your Limits: A Survey of Abstention in Large Language Models</title>
+      <link>https://bbwen.github.io/publications/abstention-survey/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bbwen.github.io/publications/abstention-survey/</guid>
+      <description>&lt;p&gt;We provide a comprehensive survey of abstention mechanisms in large language models, covering theoretical foundations, practical implementations, and evaluation methodologies. This work serves as a foundation for understanding how LLMs can know their limits and abstain from answering questions they are uncertain about.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

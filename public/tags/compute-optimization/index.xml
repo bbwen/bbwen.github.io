@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compute Optimization | Bingbing Wen</title>
+    <link>https://bbwen.github.io/tags/compute-optimization/</link>
+      <atom:link href="https://bbwen.github.io/tags/compute-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Compute Optimization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bbwen.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Compute Optimization</title>
+      <link>https://bbwen.github.io/tags/compute-optimization/</link>
+    </image>
+    
+    <item>
+      <title>AutoScale-Automatic Prediction of Compute-optimal Data Composition for Training LLMs</title>
+      <link>https://bbwen.github.io/publications/autoscale-data-mixing/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://bbwen.github.io/publications/autoscale-data-mixing/</guid>
+      <description>&lt;p&gt;We present AutoScale, a method for automatically predicting compute-optimal data composition for training large language models. Our approach improves training efficiency and model performance by optimizing the data mixing strategy during pretraining.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
