@@ -14,6 +14,9 @@ importers:
       '@tailwindcss/typography':
         specifier: ^0.5.10
         version: 0.5.19(tailwindcss@4.1.16)
+      mri:
+        specifier: ^1.2.0
+        version: 1.2.0
       preact:
         specifier: ^10.27.2
         version: 10.27.2

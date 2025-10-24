@@ -59,7 +59,7 @@ projects: []
 slides: ""
 
 # Links (optional).
-url_pdf: "./data/ccq_aaai.pdf"
+url_pdf: "/papers/ccq_aaai.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
