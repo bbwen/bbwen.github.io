@@ -15,13 +15,13 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
       headings:
-        about: ''
+        about: '👋 About Me'
+        interests: 'Research Interests'
         education: ''
-        interests: ''
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
@@ -29,18 +29,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
@@ -62,44 +50,26 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
+  - block: markdown
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
+      title: '📰 News'
       subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      text: |-
+        **9/2025** Our paper about [MLLM spurious correlation](https://arxiv.org/abs/2506.18322) has been accepted by NeurIPS 2025!
+
+        **7/2025** I presented our abstention survey in LLMs (oral presentation) and confidence calibration (poster) at ACL 2025!
+
+        **7/2025** Our paper about [modular abstention](https://openreview.net/pdf?id=EQIBB1BA6Y) has been accepted by ICML 2025!
+
+        **6/2025** I will start my summer internship at Apple as a research intern!
+
+        **5/2025** Our paper about [optimal data mixing in pretraining](https://arxiv.org/pdf/2407.20177) has been accepted by COLM 2025!
+
+        **5/2025** Our paper about [confidence calibration](https://arxiv.org/pdf/2506.00582) has been accepted by ACL 2025!
+
+        **2/2025** Our paper about [abstention survey in LLMs](https://arxiv.org/pdf/2407.18418) has been accepted by TACL 2025!
     design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

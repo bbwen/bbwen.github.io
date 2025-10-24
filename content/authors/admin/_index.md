@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Bingbing Wen
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Bingbing
+last_name: Wen
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,150 +23,176 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student in Information Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Washington
+    url: https://www.washington.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:bingbw@uw.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://twitter.com/bingbingwen1
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=Jt0E6FEAAAAJ&hl=en
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Data Efficiency through Curation and Optimization
+  - Model Efficiency via Modular and Adaptive Architectures
+  - Evaluation for Efficient Reliability
+  - Mixture-of-LoRA Experts
+  - Abstention and Confidence-based Evaluation
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD in Information Science (Natural Language Processing)
+    institution: University of Washington
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2020-09-01
+    date_end: ''
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Advisors: [Prof. Lucy Lu Wang](https://www.llwang.net/) and [Prof. Bill Howe](https://faculty.washington.edu/billhowe/). Also working closely with [Prof. Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). Member of [UW RAISE Center](https://www.raise.uw.edu/) and [The AI Clinic](https://aiclinic.uw.edu/).
+  - area: MS in Computational Science & Engineering (Artificial Intelligence)
+    institution: University of Hong Kong
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2016-09-01
+    date_end: 2018-06-30
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Specialized in Artificial Intelligence and Computational Science.
+  - area: BS in Control Science & Engineering (Robotics)
+    institution: Zhejiang University
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2012-09-01
+    date_end: 2016-06-30
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Focused on Robotics and Control Systems.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Intern
+    company_name: Amazon
+    company_url: 'https://www.amazon.com/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-09-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Reinforcement Learning for Multi-turn Confidence Updating in Large Language Models.
+  - position: Research Intern
+    company_name: Apple
+    company_url: 'https://www.apple.com/'
+    icon: ''
+    date_start: 2025-06-01
+    date_end: 2025-09-30
+    summary: |
+      Research on MMMix. Mentors: Manjot Bilkhu, Javier Movellan.
+  - position: Research Intern
+    company_name: OPPO Research
+    company_url: 'https://www.oppo.com/'
+    icon: ''
+    date_start: 2023-06-01
+    date_end: 2023-09-30
+    summary: |
+      Research on Storyboard LLM. Mentors: Ziwei Xuan, Guo-Jun Qi.
+  - position: Research Intern
+    company_name: Microsoft Cloud AI
+    company_url: 'https://www.microsoft.com/'
+    icon: ''
+    date_start: 2022-06-01
+    date_end: 2022-09-30
+    summary: |
+      Research on InfoVisDial. Mentors: Zhengyuan Yang, Jianfeng Wang, Zhe Gan, Lijuan Wang.
+  - position: Applied Research Scientist
+    company_name: Tencent
+    company_url: 'https://www.tencent.com/'
+    icon: ''
+    date_start: 2018-05-01
+    date_end: 2020-05-31
+    summary: |
+      Search/Ranking Model Training: Developed query-document semantic matching models and wide and deep CTR/CVR prediction models in QQ browser. Mentors: Tong Zhou, Bowei Long.
+
+# Research Areas
+research_areas:
+  - name: Data Efficiency & Curation
+    description: 'Optimizing data mixtures and fine-grained preference signals'
+    percent: 95
+    icon: chart-bar
+  - name: Model Efficiency & Modular Architectures
+    description: 'Mixture-of-LoRA experts and routing mechanisms'
+    percent: 90
+    icon: cpu-chip
+  - name: Evaluation for Reliability
+    description: 'Abstention and confidence-based evaluation frameworks'
+    percent: 85
+    icon: user-group
+  - name: Reinforcement Learning
+    description: 'Dynamic compute allocation and model collaboration'
+    percent: 80
+    icon: code-bracket
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
+      - name: Programming Languages
+        description: 'Python, C++/C, SQL, R, Matlab'
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
+      - name: Machine Learning Frameworks
+        description: 'PyTorch, TensorFlow, Spark, Hive, OpenCV'
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
-
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+      - name: Data Processing
+        description: 'SQL, Spark, Hive for large-scale data processing'
+        percent: 85
+        icon: chart-bar
+      - name: Computer Vision
+        description: 'OpenCV, image processing and analysis'
+        percent: 80
+        icon: camera
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+  - title: HKU Chinese Post Graduate Scholarship
+    url: https://www.hku.hk/
+    date: '2018-01-01'
+    awarder: University of Hong Kong
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Scholarship for postgraduate studies at University of Hong Kong.
+  - title: Excellent Graduation Thesis
+    url: https://www.zju.edu.cn/
+    date: '2016-06-01'
+    awarder: Zhejiang University
+    icon: hero/document-text
+    summary: |
+      Recognized for outstanding graduation thesis at Zhejiang University.
+  - title: Scholarship for Academic Excellence
+    url: https://www.zju.edu.cn/
+    date: '2015-09-01'
+    awarder: Zhejiang University
+    icon: hero/trophy
+    summary: |
+      Awarded for academic excellence during undergraduate studies.
+  - title: University-level Outstanding Student Cadres
+    url: https://www.zju.edu.cn/
+    date: '2015-09-01'
+    awarder: Zhejiang University
+    icon: hero/user-group
+    summary: |
+      Recognized for outstanding leadership and student service.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a PhD student at University of Washington. I'm fortunate to be advised by Prof. Bill Howe and Prof. Lucy Lu Wang. I also work closely with Prof. Yulia Tsvetkov. I'm a member of UW RAISE Center and The AI Clinic.
+
+My research focuses on three key areas: **Data Efficiency through Curation and Optimization** - optimizing data mixtures and designing fine-grained preference signals that go beyond correctness; **Model Efficiency via Modular and Adaptive Architectures** - exploring mixture-of-LoRA experts, routing mechanisms and reinforcement learning approaches to enhance collaboration among multiple specialized models; and **Evaluation for Efficient Reliability** - designing abstention and confidence-based evaluation frameworks that help models decide when not to compute unnecessary outputs.
+
+During my PhD, I had the opportunity to conduct research internships at Apple, Microsoft Cloud AI, and OPPO Research, where I explored challenges in building large-scale AI systems. I also collaborate closely with the Allen Institute for AI.
+
+I actively mentor undergraduate and master students in developing and carrying out research projects--feel free to reach out if you're interested in my research or PhD application.
