@@ -42,11 +42,7 @@ profiles:
     url: https://scholar.google.com/citations?user=Jt0E6FEAAAAJ&hl=en
 
 interests:
-  - Data Efficiency through Curation and Optimization
-  - Model Efficiency via Modular and Adaptive Architectures
-  - Evaluation for Efficient Reliability
-  - Mixture-of-LoRA Experts
-  - Abstention and Confidence-based Evaluation
+  - Developing data‑ and compute‑efficient methods that enable foundation models to learn, adapt, and allocate resources optimally across tasks and data sources—from training through inference
 
 education:
   - area: PhD in Information Science (Natural Language Processing)

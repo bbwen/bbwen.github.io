@@ -51,6 +51,7 @@ sections:
     design:
       view: citation
   - block: markdown
+    id: news
     content:
       title: '📰 News'
       subtitle: ''
