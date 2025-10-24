@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.152.1'
+  WC_HUGO_VERSION: '0.152.2'
   NODE_VERSION: '20'
 
 on:
@@ -47,7 +47,7 @@ jobs:
         # Install Tailwind CLI if package.json exists
         if [ -f "package.json" ]; then
           echo "Installing Tailwind dependencies..."
-          pnpm install || npm install
+          pnpm install --frozen-lockfile || npm ci
         fi
 
     - name: Setup Hugo
