@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Context Perturbations | Bingbing Wen</title>
-    <link>https://bbwen.github.io/tags/context-perturbations/</link>
-      <atom:link href="https://bbwen.github.io/tags/context-perturbations/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64079/tags/context-perturbations/</link>
+      <atom:link href="http://localhost:64079/tags/context-perturbations/index.xml" rel="self" type="application/rss+xml" />
     <description>Context Perturbations</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bbwen.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>http://localhost:64079/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Context Perturbations</title>
-      <link>https://bbwen.github.io/tags/context-perturbations/</link>
+      <link>http://localhost:64079/tags/context-perturbations/</link>
     </image>
     
     <item>
       <title>Characterizing LLM Abstention Behavior in Science QA with Context Perturbations</title>
-      <link>https://bbwen.github.io/publications/abstention-scienceqa/</link>
+      <link>http://localhost:64079/publications/abstention-scienceqa/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://bbwen.github.io/publications/abstention-scienceqa/</guid>
+      <guid>http://localhost:64079/publications/abstention-scienceqa/</guid>
       <description>&lt;p&gt;We characterize how large language models abstain from answering science questions when presented with context perturbations, providing insights into model uncertainty and reliability in scientific reasoning tasks.&lt;/p&gt;
 </description>
     </item>

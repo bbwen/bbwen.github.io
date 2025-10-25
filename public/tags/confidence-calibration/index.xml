@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confidence Calibration | Bingbing Wen</title>
-    <link>https://bbwen.github.io/tags/confidence-calibration/</link>
-      <atom:link href="https://bbwen.github.io/tags/confidence-calibration/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64079/tags/confidence-calibration/</link>
+      <atom:link href="http://localhost:64079/tags/confidence-calibration/index.xml" rel="self" type="application/rss+xml" />
     <description>Confidence Calibration</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bbwen.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>http://localhost:64079/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Confidence Calibration</title>
-      <link>https://bbwen.github.io/tags/confidence-calibration/</link>
+      <link>http://localhost:64079/tags/confidence-calibration/</link>
     </image>
     
     <item>
       <title>Do Language Models Mirror Human Confidence? Exploring Psychological Insights to Address Overconfidence in LLMs</title>
-      <link>https://bbwen.github.io/publications/confidence-calibration/</link>
+      <link>http://localhost:64079/publications/confidence-calibration/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://bbwen.github.io/publications/confidence-calibration/</guid>
+      <guid>http://localhost:64079/publications/confidence-calibration/</guid>
       <description>&lt;p&gt;We investigate whether language models mirror human confidence patterns and explore psychological insights to address overconfidence in large language models. Our work provides new perspectives on understanding and improving confidence calibration in AI systems.&lt;/p&gt;
 </description>
     </item>

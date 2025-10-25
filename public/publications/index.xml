@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Bingbing Wen</title>
-    <link>https://bbwen.github.io/publications/</link>
-      <atom:link href="https://bbwen.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64079/publications/</link>
+      <atom:link href="http://localhost:64079/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bbwen.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>http://localhost:64079/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Publications</title>
-      <link>https://bbwen.github.io/publications/</link>
+      <link>http://localhost:64079/publications/</link>
     </image>
     
     <item>
       <title>MARVEL: Modular Abstention for Reliable and Versatile Expert LLMs</title>
-      <link>https://bbwen.github.io/publications/marvel-modular-abstention/</link>
+      <link>http://localhost:64079/publications/marvel-modular-abstention/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://bbwen.github.io/publications/marvel-modular-abstention/</guid>
+      <guid>http://localhost:64079/publications/marvel-modular-abstention/</guid>
       <description>&lt;p&gt;We present MARVEL, a modular abstention framework for building reliable and versatile expert large language models. Our approach enables models to selectively abstain from answering questions they are uncertain about, improving reliability and trustworthiness in AI systems.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AutoScale-Automatic Prediction of Compute-optimal Data Composition for Training LLMs</title>
-      <link>https://bbwen.github.io/publications/autoscale-data-mixing/</link>
+      <link>http://localhost:64079/publications/autoscale-data-mixing/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://bbwen.github.io/publications/autoscale-data-mixing/</guid>
+      <guid>http://localhost:64079/publications/autoscale-data-mixing/</guid>
       <description>&lt;p&gt;We present AutoScale, a method for automatically predicting compute-optimal data composition for training large language models. Our approach improves training efficiency and model performance by optimizing the data mixing strategy during pretraining.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Do Language Models Mirror Human Confidence? Exploring Psychological Insights to Address Overconfidence in LLMs</title>
-      <link>https://bbwen.github.io/publications/confidence-calibration/</link>
+      <link>http://localhost:64079/publications/confidence-calibration/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://bbwen.github.io/publications/confidence-calibration/</guid>
+      <guid>http://localhost:64079/publications/confidence-calibration/</guid>
       <description>&lt;p&gt;We investigate whether language models mirror human confidence patterns and explore psychological insights to address overconfidence in large language models. Our work provides new perspectives on understanding and improving confidence calibration in AI systems.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Know Your Limits: A Survey of Abstention in Large Language Models</title>
-      <link>https://bbwen.github.io/publications/abstention-survey/</link>
+      <link>http://localhost:64079/publications/abstention-survey/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://bbwen.github.io/publications/abstention-survey/</guid>
+      <guid>http://localhost:64079/publications/abstention-survey/</guid>
       <description>&lt;p&gt;We provide a comprehensive survey of abstention mechanisms in large language models, covering theoretical foundations, practical implementations, and evaluation methodologies. This work serves as a foundation for understanding how LLMs can know their limits and abstain from answering questions they are uncertain about.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Characterizing LLM Abstention Behavior in Science QA with Context Perturbations</title>
-      <link>https://bbwen.github.io/publications/abstention-scienceqa/</link>
+      <link>http://localhost:64079/publications/abstention-scienceqa/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://bbwen.github.io/publications/abstention-scienceqa/</guid>
+      <guid>http://localhost:64079/publications/abstention-scienceqa/</guid>
       <description>&lt;p&gt;We characterize how large language models abstain from answering science questions when presented with context perturbations, providing insights into model uncertainty and reliability in scientific reasoning tasks.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>InfoVisDial: An Informative Visual Dialogue Dataset by Bridging Large Multimodal and Language Models</title>
-      <link>https://bbwen.github.io/publications/infovisdial/</link>
+      <link>http://localhost:64079/publications/infovisdial/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://bbwen.github.io/publications/infovisdial/</guid>
+      <guid>http://localhost:64079/publications/infovisdial/</guid>
       <description>&lt;p&gt;We present InfoVisDial, a comprehensive visual dialogue dataset created by bridging large multimodal and language models to enable informative conversations about visual content. This work was conducted during an internship at Microsoft Azure AI.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CCQ: cross-class query network for partially labeled organ segmentation</title>
-      <link>https://bbwen.github.io/publications/ccq-cross-class-query/</link>
+      <link>http://localhost:64079/publications/ccq-cross-class-query/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://bbwen.github.io/publications/ccq-cross-class-query/</guid>
+      <guid>http://localhost:64079/publications/ccq-cross-class-query/</guid>
       <description>&lt;p&gt;We propose CCQ, a cross-class query network for partially labeled organ segmentation, addressing the challenge of learning from incomplete annotations in medical image analysis. This work was presented at AAAI 2023.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ExpScore: Learning metrics for recommendation explanation</title>
-      <link>https://bbwen.github.io/publications/expscore-recommendation/</link>
+      <link>http://localhost:64079/publications/expscore-recommendation/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://bbwen.github.io/publications/expscore-recommendation/</guid>
+      <guid>http://localhost:64079/publications/expscore-recommendation/</guid>
       <description>&lt;p&gt;We propose ExpScore, a framework for learning metrics to evaluate recommendation explanations, improving the quality and interpretability of recommendation systems. This work was presented at WWW 2022.&lt;/p&gt;
 </description>
     </item>

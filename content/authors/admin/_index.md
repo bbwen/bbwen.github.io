@@ -69,21 +69,13 @@ education:
 
 work:
   - position: Research Intern
-    company_name: Amazon
-    company_url: 'https://www.amazon.com/'
-    icon: ''
-    date_start: 2025-09-01
-    date_end: ''
-    summary: |
-      Reinforcement Learning for Multi-turn Confidence Updating in Large Language Models.
-  - position: Research Intern
     company_name: Apple
     company_url: 'https://www.apple.com/'
     icon: ''
     date_start: 2025-06-01
     date_end: 2025-09-30
     summary: |
-      Research on MMMix. Mentors: Manjot Bilkhu, Javier Movellan.
+      Research on MLLM Midtraining. Mentors: Manjot Bilkhu, Javier Movellan.
   - position: Research Intern
     company_name: OPPO Research
     company_url: 'https://www.oppo.com/'
