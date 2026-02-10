@@ -56,6 +56,10 @@ sections:
       title: '📰 News'
       subtitle: ''
       text: |-
+        **1/2026** Our paper on [reinforcement learning for agentic VQA](https://arxiv.org/abs/2601.16400) has been released on arXiv.
+
+        **1/2026** Our benchmark on [dark pattern susceptibility of computer-use agents](https://arxiv.org/abs/2510.11035) has been accepted by IUI 2026.
+
         **9/2025** Our paper about [MLLM spurious correlation](https://arxiv.org/abs/2506.18322) has been accepted by NeurIPS 2025!
 
         **7/2025** I presented our abstention survey in LLMs (oral presentation) and confidence calibration (poster) at ACL 2025!
@@ -64,7 +68,7 @@ sections:
 
         **6/2025** I will start my summer internship at Apple as a research intern!
 
-        **5/2025** Our paper about [optimal data mixing in pretraining](https://arxiv.org/pdf/2407.20177) has been accepted by COLM 2025!
+        **5/2025** Our paper about [optimal data mixing in pretraining](https://arxiv.org/pdf/2407.20177) has been accepted by [COLM 2025]!
 
         **5/2025** Our paper about [confidence calibration](https://arxiv.org/pdf/2506.00582) has been accepted by ACL 2025!
 

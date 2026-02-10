@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Composition | Bingbing Wen</title>
-    <link>http://localhost:64079/tags/data-composition/</link>
-      <atom:link href="http://localhost:64079/tags/data-composition/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/data-composition/</link>
+      <atom:link href="http://localhost:1313/tags/data-composition/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Composition</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:64079/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Data Composition</title>
-      <link>http://localhost:64079/tags/data-composition/</link>
+      <link>http://localhost:1313/tags/data-composition/</link>
     </image>
     
     <item>
       <title>AutoScale-Automatic Prediction of Compute-optimal Data Composition for Training LLMs</title>
-      <link>http://localhost:64079/publications/autoscale-data-mixing/</link>
+      <link>http://localhost:1313/publications/autoscale-data-mixing/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64079/publications/autoscale-data-mixing/</guid>
+      <guid>http://localhost:1313/publications/autoscale-data-mixing/</guid>
       <description>&lt;p&gt;We present AutoScale, a method for automatically predicting compute-optimal data composition for training large language models. Our approach improves training efficiency and model performance by optimizing the data mixing strategy during pretraining.&lt;/p&gt;
 </description>
     </item>

@@ -35,7 +35,7 @@ summary: "Characterizing LLM abstention behavior in science QA with context pert
 doi: ""
 
 # Is this a featured publication? (true/false)
-featured: false
+featured: true
 
 # Tags and keywords
 tags:
