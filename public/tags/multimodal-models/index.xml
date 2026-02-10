@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multimodal Models | Bingbing Wen</title>
-    <link>http://localhost:1313/tags/multimodal-models/</link>
-      <atom:link href="http://localhost:1313/tags/multimodal-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64079/tags/multimodal-models/</link>
+      <atom:link href="http://localhost:64079/tags/multimodal-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Multimodal Models</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
+      <url>http://localhost:64079/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Multimodal Models</title>
-      <link>http://localhost:1313/tags/multimodal-models/</link>
+      <link>http://localhost:64079/tags/multimodal-models/</link>
     </image>
     
     <item>
-      <title>MMMG: A Comprehensive and Reliable Evaluation Suite for Multitask Multimodal Generation</title>
-      <link>http://localhost:1313/publications/mmmg-multitask-multimodal-generation/</link>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/mmmg-multitask-multimodal-generation/</guid>
-      <description>&lt;p&gt;MMMG is an evaluation suite for multitask multimodal generation, enabling more reliable assessment of large multimodal models across a wide range of generation tasks and modalities.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>InfoVisDial: An Informative Visual Dialogue Dataset by Bridging Large Multimodal and Language Models</title>
-      <link>http://localhost:1313/publications/infovisdial/</link>
+      <link>http://localhost:64079/publications/infovisdial/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/infovisdial/</guid>
+      <guid>http://localhost:64079/publications/infovisdial/</guid>
       <description>&lt;p&gt;We present InfoVisDial, a comprehensive visual dialogue dataset created by bridging large multimodal and language models to enable informative conversations about visual content. This work was conducted during an internship at Microsoft Azure AI.&lt;/p&gt;
 </description>
     </item>

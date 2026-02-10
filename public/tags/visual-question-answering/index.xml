@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Visual Question Answering | Bingbing Wen</title>
+    <title>Visual Question Answering | Hugo Academic CV Theme</title>
     <link>http://localhost:1313/tags/visual-question-answering/</link>
       <atom:link href="http://localhost:1313/tags/visual-question-answering/index.xml" rel="self" type="application/rss+xml" />
     <description>Visual Question Answering</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Visual Question Answering</title>
       <link>http://localhost:1313/tags/visual-question-answering/</link>
     </image>
     
     <item>
-      <title>Clarify or Answer: Reinforcement Learning for Agentic VQA with Context Under-specification</title>
-      <link>http://localhost:1313/publications/clarify-or-answer-agentic-vqa/</link>
-      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/clarify-or-answer-agentic-vqa/</guid>
-      <description>&lt;p&gt;We introduce a reinforcement learning framework for agentic VQA that explicitly models whether an agent should ask for clarification or answer directly when faced with underspecified visual and textual context.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Asking the Missing Piece: Context-Driven Clarification for Ambiguous VQA</title>
-      <link>http://localhost:1313/publications/asking-missing-piece-clarification-vqa/</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/asking-missing-piece-clarification-vqa/</guid>
-      <description>&lt;p&gt;We explore how VQA systems can ask targeted clarification questions when initial context is ambiguous, improving reliability and interpretability in multimodal reasoning.&lt;/p&gt;
+      <link>http://localhost:1313/publications/context-driven-clarification-vqa/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/context-driven-clarification-vqa/</guid>
+      <description>&lt;p&gt;We propose a context-driven clarification approach for ambiguous Visual Question Answering (VQA) tasks, enabling models to ask clarifying questions when faced with ambiguous queries. This work addresses the challenge of handling ambiguous visual questions by allowing models to seek clarification from users.&lt;/p&gt;
 </description>
     </item>
     

@@ -2,39 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evaluation | Bingbing Wen</title>
-    <link>http://localhost:1313/tags/evaluation/</link>
-      <atom:link href="http://localhost:1313/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64079/tags/evaluation/</link>
+      <atom:link href="http://localhost:64079/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
     <description>Evaluation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
+      <url>http://localhost:64079/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Evaluation</title>
-      <link>http://localhost:1313/tags/evaluation/</link>
+      <link>http://localhost:64079/tags/evaluation/</link>
     </image>
     
     <item>
-      <title>SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents</title>
-      <link>http://localhost:1313/publications/susbench-dark-pattern-agents/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/susbench-dark-pattern-agents/</guid>
-      <description>&lt;p&gt;SusBench is an online benchmark designed to measure how vulnerable computer-use agents are to dark patterns embedded in graphical user interfaces, providing a basis for evaluating and improving the safety of interactive agent systems.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MMMG: A Comprehensive and Reliable Evaluation Suite for Multitask Multimodal Generation</title>
-      <link>http://localhost:1313/publications/mmmg-multitask-multimodal-generation/</link>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/mmmg-multitask-multimodal-generation/</guid>
-      <description>&lt;p&gt;MMMG is an evaluation suite for multitask multimodal generation, enabling more reliable assessment of large multimodal models across a wide range of generation tasks and modalities.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>ExpScore: Learning metrics for recommendation explanation</title>
-      <link>http://localhost:1313/publications/expscore-recommendation/</link>
+      <link>http://localhost:64079/publications/expscore-recommendation/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/expscore-recommendation/</guid>
+      <guid>http://localhost:64079/publications/expscore-recommendation/</guid>
       <description>&lt;p&gt;We propose ExpScore, a framework for learning metrics to evaluate recommendation explanations, improving the quality and interpretability of recommendation systems. This work was presented at WWW 2022.&lt;/p&gt;
 </description>
     </item>
