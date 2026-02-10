@@ -4,224 +4,156 @@
   
   
   <url>
-    <loc>http://localhost:1313/courses/hugo-blox/getting-started/</loc><lastmod>2024-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/getting-started/</loc><lastmod>2024-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/courses/hugo-blox/reference/customization/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/reference/customization/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/courses/hugo-blox/guide/project-structure/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/guide/project-structure/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/courses/hugo-blox/guide/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/guide/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/events/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/events/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/events/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/events/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication_types/3/</loc><lastmod>2026-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/course/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/agentic-systems/</loc><lastmod>2026-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/clarify-or-answer-agentic-vqa/</loc><lastmod>2026-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication_types/</loc><lastmod>2026-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/</loc><lastmod>2026-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/reinforcement-learning/</loc><lastmod>2026-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publication_types/1/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/</loc><lastmod>2026-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/abstention/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/visual-question-answering/</loc><lastmod>2026-01-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/large-language-models/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication_types/1/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publications/marvel-modular-abstention/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/dark-patterns/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/modular-systems/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/evaluation/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publication_types/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/susbench-dark-pattern-agents/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publications/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/asking-missing-piece-clarification-vqa/</loc><lastmod>2025-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/reliability/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/clarification/</loc><lastmod>2025-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publications/autoscale-data-mixing/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/reasoning/</loc><lastmod>2025-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/compute-optimization/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/course/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/confidence-calibration/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/courses/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/data-composition/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/courses/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publications/confidence-calibration/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/human-psychology/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/spuriverse-lvlm-spurious-correlations/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/overconfidence/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/robustness/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/training-efficiency/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/spurious-correlations/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publication_types/2/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/vision-language-models/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publications/abstention-survey/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/lora/</loc><lastmod>2025-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/survey/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/multi-task-learning/</loc><lastmod>2025-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publications/abstention-scienceqa/</loc><lastmod>2024-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/parameter-efficient-tuning/</loc><lastmod>2025-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/context-perturbations/</loc><lastmod>2024-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/tensorized-clustered-lora-merging/</loc><lastmod>2025-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/science-qa/</loc><lastmod>2024-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/abstention/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/large-language-models/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publication_types/3/</loc><lastmod>2023-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/marvel-modular-abstention/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/dataset/</loc><lastmod>2023-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/modular-systems/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publications/infovisdial/</loc><lastmod>2023-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/reliability/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/microsoft-research/</loc><lastmod>2023-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/generation/</loc><lastmod>2025-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/multimodal-models/</loc><lastmod>2023-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/mmmg-multitask-multimodal-generation/</loc><lastmod>2025-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/visual-dialogue/</loc><lastmod>2023-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/multimodal-models/</loc><lastmod>2025-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/blog/get-started/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/autoscale-data-mixing/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/academic/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/compute-optimization/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/blog/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/confidence-calibration/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/markdown/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/data-composition/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/hugo/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/confidence-calibration/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/hugoblox/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/human-psychology/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/projects/pandas/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/overconfidence/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/projects/pytorch/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/training-efficiency/</loc><lastmod>2025-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/projects/scikit/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication_types/2/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/second-brain/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/abstention-survey/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/blog/second-brain/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/survey/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/blog/data-visualization/</loc><lastmod>2023-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/mitigating-overconfidence-llms/</loc><lastmod>2024-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/blog/teach-courses/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/abstention-scienceqa/</loc><lastmod>2024-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/guide/formatting/media/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/context-perturbations/</loc><lastmod>2024-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/experience/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/science-qa/</loc><lastmod>2024-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/guide/formatting/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/fairness/</loc><lastmod>2024-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/hugo-blox-builder/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/laboratory-scale-ai-open-weight-models/</loc><lastmod>2024-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/blog/project-management/</loc><lastmod>2023-10-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/open-weight-models/</loc><lastmod>2024-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publications/ccq-cross-class-query/</loc><lastmod>2023-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/responsible-ai/</loc><lastmod>2024-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/cross-class-query/</loc><lastmod>2023-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/medical-image-segmentation/</loc><lastmod>2023-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/computer-vision/</loc><lastmod>2024-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/organ-segmentation/</loc><lastmod>2023-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/generative-models/</loc><lastmod>2024-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/partial-labeling/</loc><lastmod>2023-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/motion-generation/</loc><lastmod>2024-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/omnimotiongpt-animal-motion-generation/</loc><lastmod>2024-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/evaluation/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/dataset/</loc><lastmod>2023-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/explanation-metrics/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/infovisdial/</loc><lastmod>2023-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/publications/expscore-recommendation/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/microsoft-research/</loc><lastmod>2023-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/interpretability/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/visual-dialogue/</loc><lastmod>2023-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/tags/recommendation-systems/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/blog/get-started/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/academic/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/guide/formatting/callout/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/blog/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/guide/formatting/cards/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/markdown/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/reference/i18n/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/hugo/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/reference/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/hugoblox/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:64079/courses/hugo-blox/guide/formatting/toggle/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/projects/pandas/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/projects/pytorch/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/projects/scikit/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/second-brain/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/blog/second-brain/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/blog/data-visualization/</loc><lastmod>2023-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/blog/teach-courses/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/media/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/experience/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/blog/project-management/</loc><lastmod>2023-10-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publications/ccq-cross-class-query/</loc><lastmod>2023-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/cross-class-query/</loc><lastmod>2023-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/medical-image-segmentation/</loc><lastmod>2023-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/organ-segmentation/</loc><lastmod>2023-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/partial-labeling/</loc><lastmod>2023-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/conversational-ai/</loc><lastmod>2022-08-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publications/egcr-conversational-recommendation-explanations/</loc><lastmod>2022-08-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/explainability/</loc><lastmod>2022-08-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/explanations/</loc><lastmod>2022-08-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/recommender-systems/</loc><lastmod>2022-08-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publications/robust-fair-emotion-aware-explanations/</loc><lastmod>2022-08-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/explanation-metrics/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publications/expscore-recommendation/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/interpretability/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/recommendation-systems/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/callout/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/cards/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/courses/hugo-blox/reference/i18n/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/courses/hugo-blox/reference/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/toggle/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/steps/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>http://localhost:64079/courses/hugo-blox/guide/formatting/steps/</loc><changefreq>weekly</changefreq></url></urlset>

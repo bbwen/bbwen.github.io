@@ -51,7 +51,7 @@ education:
     date_start: 2020-09-01
     date_end: ''
     summary: |
-      Advisors: [Prof. Lucy Lu Wang](https://www.llwang.net/) and [Prof. Bill Howe](https://faculty.washington.edu/billhowe/). Also working closely with [Prof. Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/).
+      Advisors: [Prof. Lucy Lu Wang](https://www.llwang.net/) and [Prof. Bill Howe](https://faculty.washington.edu/billhowe/). Also working closely with [Prof. Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). Member of [UW RAISE Center](https://www.raise.uw.edu/) and [The AI Clinic](https://aiclinic.uw.edu/).
   - area: MS in Computational Science & Engineering (Artificial Intelligence)
     institution: University of Hong Kong
     icon: ""
@@ -177,11 +177,10 @@ awards:
       Recognized for outstanding leadership and student service.
 ---
 
+I am a PhD student at University of Washington. I'm fortunate to be advised by Prof. Bill Howe and Prof. Lucy Lu Wang. I also work closely with Prof. Yulia Tsvetkov. I'm a member of UW RAISE Center and The AI Clinic.
 
-I am a final-year Ph.D. candidate at the University of Washington, where I am advised by [Prof. Bill Howe](https://faculty.washington.edu/billhowe/) and [Prof. Lucy Lu Wang](https://www.llwang.net/). I am also a member of the UW RAISE Center and collaborate closely with [Prof. Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/).
+My research focuses on three key areas: **Data Efficiency through Curation and Optimization** - optimizing data mixtures and designing fine-grained preference signals that go beyond correctness; **Model Efficiency via Modular and Adaptive Architectures** - exploring mixture-of-LoRA experts, routing mechanisms and reinforcement learning approaches to enhance collaboration among multiple specialized models; and **Evaluation for Efficient Reliability** - designing abstention and confidence-based evaluation frameworks that help models decide when not to compute unnecessary outputs.
 
-My research focuses on the **efficiency and reliability of foundation models and agentic systems**, aiming to reduce computational overhead while enhancing model trustworthiness. My work is structured around three core pillars:
+During my PhD, I had the opportunity to conduct research internships at Apple, Microsoft Cloud AI, and OPPO Research, where I explored challenges in building large-scale AI systems. I also collaborate closely with the Allen Institute for AI.
 
-* **Data-Centric Optimization:** I develop methods for optimal data mixture selection and curation, designing fine-grained preference signals that align models beyond simple correctness.[COLM25](https://arxiv.org/pdf/2407.20177)
-* **Agent Workflows & Modular Architectures:** I design adaptive systems that optimize tool use and dynamic routing mechanisms. My work explores how reinforcement learning can orchestrate collaboration among specialized experts to streamline complex agent workflows. [TACL2025](https://arxiv.org/pdf/2407.18418),[ICML2025](https://openreview.net/pdf?id=EQIBB1BA6Y),[IUI2026](https://arxiv.org/abs/2510.11035),[CoA](https://arxiv.org/abs/2601.16400)
-* **Reliability-Aware Evaluation:** I design frameworks for selective prediction and abstention, enabling models to quantify uncertainty and conserve resources by avoiding unnecessary computation on low-confidence samples. [ACL2025](https://arxiv.org/pdf/2506.00582), [EMNLP2024](https://arxiv.org/abs/2404.12452),[Neurips2025](https://arxiv.org/abs/2506.18322)
+I actively mentor undergraduate and master students in developing and carrying out research projects--feel free to reach out if you're interested in my research or PhD application.
