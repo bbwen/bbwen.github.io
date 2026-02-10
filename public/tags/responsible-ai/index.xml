@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responsible AI | Bingbing Wen</title>
+    <link>http://localhost:1313/tags/responsible-ai/</link>
+      <atom:link href="http://localhost:1313/tags/responsible-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Responsible AI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Responsible AI</title>
+      <link>http://localhost:1313/tags/responsible-ai/</link>
+    </image>
+    
+    <item>
+      <title>Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings</title>
+      <link>http://localhost:1313/publications/laboratory-scale-ai-open-weight-models/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/laboratory-scale-ai-open-weight-models/</guid>
+      <description>&lt;p&gt;We study how open-weight models can be deployed in low-resource settings, finding that with appropriate selection and configuration they can rival proprietary systems such as ChatGPT for many practical tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
