@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conversational AI | Bingbing Wen</title>
+    <link>http://localhost:1313/tags/conversational-ai/</link>
+      <atom:link href="http://localhost:1313/tags/conversational-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conversational AI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Conversational AI</title>
+      <link>http://localhost:1313/tags/conversational-ai/</link>
+    </image>
+    
+    <item>
+      <title>EGCR: Explanation Generation for Conversational Recommendation</title>
+      <link>http://localhost:1313/publications/egcr-conversational-recommendation-explanations/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/egcr-conversational-recommendation-explanations/</guid>
+      <description>&lt;p&gt;We propose EGCR, a framework for generating explanations in conversational recommendation scenarios that supports multi-turn dialogue and user-centric justification of recommendations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

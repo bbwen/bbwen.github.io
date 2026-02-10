@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | Bingbing Wen</title>
+    <link>http://localhost:1313/tags/reinforcement-learning/</link>
+      <atom:link href="http://localhost:1313/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Reinforcement Learning</title>
+      <link>http://localhost:1313/tags/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Clarify or Answer: Reinforcement Learning for Agentic VQA with Context Under-specification</title>
+      <link>http://localhost:1313/publications/clarify-or-answer-agentic-vqa/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/clarify-or-answer-agentic-vqa/</guid>
+      <description>&lt;p&gt;We introduce a reinforcement learning framework for agentic VQA that explicitly models whether an agent should ask for clarification or answer directly when faced with underspecified visual and textual context.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

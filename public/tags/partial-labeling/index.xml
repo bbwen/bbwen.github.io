@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partial Labeling | Bingbing Wen</title>
-    <link>http://localhost:64079/tags/partial-labeling/</link>
-      <atom:link href="http://localhost:64079/tags/partial-labeling/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/partial-labeling/</link>
+      <atom:link href="http://localhost:1313/tags/partial-labeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Partial Labeling</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:64079/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Partial Labeling</title>
-      <link>http://localhost:64079/tags/partial-labeling/</link>
+      <link>http://localhost:1313/tags/partial-labeling/</link>
     </image>
     
     <item>
       <title>CCQ: cross-class query network for partially labeled organ segmentation</title>
-      <link>http://localhost:64079/publications/ccq-cross-class-query/</link>
+      <link>http://localhost:1313/publications/ccq-cross-class-query/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64079/publications/ccq-cross-class-query/</guid>
+      <guid>http://localhost:1313/publications/ccq-cross-class-query/</guid>
       <description>&lt;p&gt;We propose CCQ, a cross-class query network for partially labeled organ segmentation, addressing the challenge of learning from incomplete annotations in medical image analysis. This work was presented at AAAI 2023.&lt;/p&gt;
 </description>
     </item>

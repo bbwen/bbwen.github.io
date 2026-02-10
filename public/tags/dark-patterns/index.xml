@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark Patterns | Bingbing Wen</title>
+    <link>http://localhost:1313/tags/dark-patterns/</link>
+      <atom:link href="http://localhost:1313/tags/dark-patterns/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dark Patterns</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Dark Patterns</title>
+      <link>http://localhost:1313/tags/dark-patterns/</link>
+    </image>
+    
+    <item>
+      <title>SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents</title>
+      <link>http://localhost:1313/publications/susbench-dark-pattern-agents/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/susbench-dark-pattern-agents/</guid>
+      <description>&lt;p&gt;SusBench is an online benchmark designed to measure how vulnerable computer-use agents are to dark patterns embedded in graphical user interfaces, providing a basis for evaluating and improving the safety of interactive agent systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
