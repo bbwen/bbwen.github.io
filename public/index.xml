@@ -235,6 +235,15 @@
     </item>
     
     <item>
+      <title>MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining</title>
+      <link>http://localhost:1313/publications/mixatlas-multimodal-midtraining/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/mixatlas-multimodal-midtraining/</guid>
+      <description>&lt;p&gt;We introduce MixAtlas, a principled framework for compute-efficient multimodal mixture optimization via systematic domain decomposition and smaller proxy models. MixAtlas factorizes training data along two interpretable axes—image concepts and task supervision—enabling interpretable mixture control. Using small proxy models and a Gaussian-process surrogate, we explore the mixture space at ~1/100th the cost of full-scale training, yielding up to 3× faster convergence and consistent gains of 2–5% across diverse benchmarks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Clarify or Answer: Reinforcement Learning for Agentic VQA with Context Under-specification</title>
       <link>http://localhost:1313/publications/clarify-or-answer-agentic-vqa/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
@@ -1242,7 +1251,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-754139682&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-286951347&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1260,7 +1269,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-754139682&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-286951347&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

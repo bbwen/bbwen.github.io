@@ -56,6 +56,8 @@ sections:
       title: '📰 News'
       subtitle: ''
       text: |-
+        **3/2026** Our paper on [uncertainty-aware data mixture optimization for MLLM midtraining](https://openreview.net/forum?id=67r0Aq1XWL) has been accepted by ICLR 2026 Workshop DATA-FM!
+
         **1/2026** Our paper on [reinforcement learning for agentic VQA](https://arxiv.org/abs/2601.16400) has been released on arXiv.
 
         **1/2026** Our benchmark on [dark pattern susceptibility of computer-use agents](https://arxiv.org/abs/2510.11035) has been accepted by IUI 2026.

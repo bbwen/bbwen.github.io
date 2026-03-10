@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLLM | Bingbing Wen</title>
+    <link>http://localhost:1313/tags/mllm/</link>
+      <atom:link href="http://localhost:1313/tags/mllm/index.xml" rel="self" type="application/rss+xml" />
+    <description>MLLM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>MLLM</title>
+      <link>http://localhost:1313/tags/mllm/</link>
+    </image>
+    
+    <item>
+      <title>MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining</title>
+      <link>http://localhost:1313/publications/mixatlas-multimodal-midtraining/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/mixatlas-multimodal-midtraining/</guid>
+      <description>&lt;p&gt;We introduce MixAtlas, a principled framework for compute-efficient multimodal mixture optimization via systematic domain decomposition and smaller proxy models. MixAtlas factorizes training data along two interpretable axes—image concepts and task supervision—enabling interpretable mixture control. Using small proxy models and a Gaussian-process surrogate, we explore the mixture space at ~1/100th the cost of full-scale training, yielding up to 3× faster convergence and consistent gains of 2–5% across diverse benchmarks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
