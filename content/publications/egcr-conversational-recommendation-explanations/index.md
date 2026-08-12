@@ -2,7 +2,7 @@
 title: "EGCR: Explanation Generation for Conversational Recommendation"
 authors:
   - admin
-  - Xuan Bu
+  - Xiaoning Bu
   - Chirag Shah
 publication_types: ["3"]
 publication: "arXiv preprint"

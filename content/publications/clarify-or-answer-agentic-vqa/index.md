@@ -1,7 +1,7 @@
 ---
 title: "Clarify or Answer: Reinforcement Learning for Agentic VQA with Context Under-specification"
 authors:
-  - Zhen Cao
+  - Zongwan Cao
   - admin
   - Lucy Lu Wang
 publication_types: ["1"]

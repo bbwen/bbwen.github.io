@@ -1,0 +1,41 @@
+{{/* Display author list with clean names, equal-contribution stars, and "et al." labels. */}}
+
+{{ if .Params.authors }}
+  {{- $author_notes := .Params.author_notes | default slice -}}
+  {{- $has_equal_contribution := false -}}
+  {{- range $index, $value := (.GetTerms "authors") -}}
+    {{- $note := "" -}}
+    {{- if lt $index (len $author_notes) -}}
+      {{- $note = index $author_notes $index -}}
+    {{- end -}}
+    {{- if eq (lower $note) "equal contribution" -}}
+      {{- $has_equal_contribution = true -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{ range $index, $value := (.GetTerms "authors") }}
+    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+    {{- $display_name := .LinkTitle -}}
+    {{- if eq (lower $display_name) "others" -}}
+      {{- $display_name = "et al." -}}
+    {{- end -}}
+    {{- $note := "" -}}
+    {{- if lt $index (len $author_notes) -}}
+      {{- $note = index $author_notes $index -}}
+    {{- end -}}
+    {{- $is_equal_contribution := eq (lower $note) "equal contribution" -}}
+
+    {{- if gt $index 0 }}, {{ end -}}
+    <span {{ if $highlight_name }}class="font-bold"{{end}}>
+      {{- if and .RelPermalink (ne (lower $display_name) "et al.") -}}
+        <a href="{{.RelPermalink}}">{{ $display_name }}</a>
+      {{- else -}}
+        {{ $display_name }}
+      {{- end -}}
+      {{- if $is_equal_contribution -}}<sup>*</sup>{{- end -}}
+    </span>
+  {{- end -}}
+  {{- if $has_equal_contribution -}}
+    <span class="ml-1 text-sm text-gray-500 dark:text-gray-400">(* Equal contribution)</span>
+  {{- end -}}
+{{- end -}}

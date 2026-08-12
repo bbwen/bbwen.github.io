@@ -1,16 +1,19 @@
 ---
-title: "MMMG: A Comprehensive and Reliable Evaluation Suite for Multitask Multimodal Generation"
+title: "MMMG: A Comprehensive and Reliable Benchmark for Multitask Multimodal Generation"
 authors:
   - Jihan Yao
-  - Yuxuan Hu
-  - Yichen Yi
+  - Yushi Hu
+  - Wenyuan Wang
   - Bin Han
-  - Sheng Shen Feng
-  - Guande Yang
+  - Guang Yang
+  - Yujie Yi
+  - Shangbin Feng
   - admin
   - Ranjay Krishna
   - Lucy Lu Wang
-  - others
+  - Yulia Tsvetkov
+  - Noah A. Smith
+  - Banghua Zhu
 publication_types: ["1"]
 publication: "COLM 2026"
 publication_short: "COLM 2026"

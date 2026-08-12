@@ -4,6 +4,9 @@ authors:
   - Han Luo
   - admin
   - Lucy Lu Wang
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
 publication_types: ["3"]
 publication: "NeurIPS 2026 Submission"
 publication_short: "NeurIPS 2026"

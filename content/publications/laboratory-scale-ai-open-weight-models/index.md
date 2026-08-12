@@ -2,13 +2,16 @@
 title: "Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings"
 authors:
   - Robert Wolfe
-  - Ian Slaughter
+  - Isaac Slaughter
   - Bin Han
   - admin
-  - Yifei Yang
-  - Leah Rosenblatt
-  - Ben Herman
-  - others
+  - Yiwei Yang
+  - Lucas Rosenblatt
+  - Bernease Herman
+  - Eva Maxfield Brown
+  - Zening Qu
+  - Nic Weber
+  - Bill Howe
 publication_types: ["1"]
 publication: "FAccT 2024"
 publication_short: "FAccT 2024"

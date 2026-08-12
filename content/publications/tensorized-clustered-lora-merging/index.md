@@ -1,12 +1,12 @@
 ---
 title: "Tensorized Clustered LoRA Merging for Multi-Task Interference"
 authors:
-  - Ziyu Su
-  - Fan Mo
-  - Guancheng Liang
-  - Jing Zhang
+  - Zhan Su
+  - Fengran Mo
+  - Guojun Liang
+  - Jinghan Zhang
   - admin
-  - Pratiksha Tiwari
+  - Prayag Tiwari
   - Jian-Yun Nie
 publication_types: ["3"]
 publication: "arXiv preprint"

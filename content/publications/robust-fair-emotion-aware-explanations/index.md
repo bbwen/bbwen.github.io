@@ -2,7 +2,7 @@
 title: "Towards Generating Robust, Fair, and Emotion-Aware Explanations for Recommender Systems"
 authors:
   - admin
-  - Yichao Feng
+  - Yunhe Feng
   - Yongfeng Zhang
   - Chirag Shah
 publication_types: ["3"]

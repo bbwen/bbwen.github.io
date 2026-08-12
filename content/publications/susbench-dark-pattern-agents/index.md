@@ -1,15 +1,20 @@
 ---
 title: "SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents"
 authors:
-  - Lin Guo
-  - Chenhao Yuan
-  - Meng Zhong
+  - Longjie Guo
+  - Chenjie Yuan
+  - Mingyuan Zhong
   - Robert Wolfe
-  - Rui Zhong
-  - Yuxuan Xu
+  - Ruican Zhong
+  - Yue Xu
   - admin
-  - Hao Shen
-  - others
+  - Hua Shen
+  - Lucy Lu Wang
+  - Alexis Hiniker
+author_notes:
+  - ""
+  - "Equal contribution"
+  - "Equal contribution"
 publication_types: ["1"]
 publication: "IUI 2026"
 publication_short: "IUI 2026"

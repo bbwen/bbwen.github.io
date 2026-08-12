@@ -1,14 +1,17 @@
 ---
 title: "Escaping the SpuriVerse: Can Large Vision-Language Models Generalize Beyond Seen Spurious Correlations?"
 authors:
-  - Yifei Yang
-  - Changping Lee
-  - Sheng Shen Feng
-  - Dongxu Zhao
+  - Yiwei Yang
+  - Chung Peng Lee
+  - Shangbin Feng
+  - Dora Zhao
   - admin
-  - Andrew Z. Liu
+  - Anthony Z. Liu
   - Yulia Tsvetkov
   - Bill Howe
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
 publication_types: ["1"]
 publication: "NeurIPS 2025 Datasets and Benchmarks"
 publication_short: "NeurIPS 2025 D&B"

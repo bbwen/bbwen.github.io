@@ -1,7 +1,7 @@
 ---
 title: "Asking the Missing Piece: Context-Driven Clarification for Ambiguous VQA"
 authors:
-  - Zhen Cao
+  - Zongwan Cao
   - admin
   - Lucy Lu Wang
 publication_types: ["1"]

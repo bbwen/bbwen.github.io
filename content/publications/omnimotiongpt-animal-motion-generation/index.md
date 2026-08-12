@@ -1,15 +1,15 @@
 ---
 title: "OmniMotionGPT: Animal Motion Generation with Limited Data"
 authors:
-  - Zhen Yang
-  - Meng Zhou
-  - Ming Shan
+  - Zhangsihao Yang
+  - Mingyuan Zhou
+  - Mengyi Shan
   - admin
   - Ziwei Xuan
-  - Michael Hill
-  - Jing Bai
+  - Mitch Hill
+  - Junjie Bai
   - Guo-Jun Qi
-  - Yu-Wing Tai
+  - Yalin Wang
 publication_types: ["1"]
 publication: "CVPR 2024"
 publication_short: "CVPR 2024"

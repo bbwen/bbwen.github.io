@@ -4,12 +4,15 @@ title: "Do Language Models Mirror Human Confidence? Exploring Psychological Insi
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
-  - Chenjun Xu*
-  - Bingbing Wen*
+  - Chenjun Xu
+  - admin
   - Bin Han
   - Robert Wolfe
   - Lucy Lu Wang
   - Bill Howe
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
 
 # Publication type.
 # Legend:
