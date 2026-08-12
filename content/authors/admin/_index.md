@@ -41,9 +41,6 @@ profiles:
     url: 'mailto:bingbw@uw.edu'
     label: E-mail Me
 
-interests:
-  - Developing data‑ and compute‑efficient methods that enable foundation models to learn, adapt, and allocate resources optimally across tasks and data sources—from training through inference
-
 education:
   - area: PhD in Information Science (Natural Language Processing)
     institution: University of Washington
