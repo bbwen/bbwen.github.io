@@ -4,6 +4,9 @@ authors:
   - Zongwan Cao
   - admin
   - Lucy Lu Wang
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
 publication_types: ["1"]
 publication: "NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models"
 publication_short: "NeurIPS 2025 FoRLM"

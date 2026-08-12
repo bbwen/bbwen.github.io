@@ -4,6 +4,9 @@ authors:
   - Zongwan Cao
   - admin
   - Lucy Lu Wang
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
 publication_types: ["1"]
 publication: "COLM 2026"
 publication_short: "COLM 2026"
