@@ -11,9 +11,9 @@ authors:
   - Ranjay Krishna
   - Lucy Lu Wang
   - others
-publication_types: ["3"]
-publication: "arXiv preprint"
-publication_short: "arXiv"
+publication_types: ["1"]
+publication: "COLM 2026"
+publication_short: "COLM 2026"
 abstract: "We present MMMG, a comprehensive and reliable evaluation suite for multitask multimodal generation that covers diverse tasks and modalities to better assess the capabilities of large multimodal models."
 summary: "Evaluation suite for diverse multitask multimodal generation with large multimodal models."
 doi: ""
@@ -36,7 +36,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2025-05-20T00:00:00Z
+date: 2026-08-01T00:00:00Z
 header:
   image: ""
   caption: ""

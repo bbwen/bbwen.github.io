@@ -4,9 +4,9 @@ authors:
   - Zhen Cao
   - admin
   - Lucy Lu Wang
-publication_types: ["3"]
-publication: "arXiv preprint"
-publication_short: "arXiv"
+publication_types: ["1"]
+publication: "COLM 2026"
+publication_short: "COLM 2026"
 abstract: "We propose a reinforcement learning framework for agentic visual question answering (VQA) under context under-specification, enabling agents to decide when to clarify missing information versus directly answer."
 summary: "Reinforcement learning for agentic VQA that balances clarification and answering under underspecified context."
 doi: ""
@@ -29,7 +29,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2026-01-20T00:00:00Z
+date: 2026-08-01T00:00:00Z
 header:
   image: ""
   caption: ""

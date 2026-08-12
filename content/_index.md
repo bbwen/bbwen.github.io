@@ -56,6 +56,10 @@ sections:
       title: '📰 News'
       subtitle: ''
       text: |-
+        **8/2026** Our paper [Illusions of the Gold Standard: A Large-scale Analysis of Human Evaluation Protocols for Long-form Text Generation](https://aclanthology.org/2026.acl-long.635/) won the ACL 2026 SAC Award!
+
+        **8/2026** Our papers [Clarify or Answer (CoA)](https://arxiv.org/abs/2601.16400) and [MMMG](https://arxiv.org/abs/2505.17613) have been accepted to COLM 2026!
+
         **5/2026** We submitted [Agentic Abstention](https://lhannnn.github.io/agentic-abstention/) to NeurIPS! Stay tuned for the full paper.
 
         **3/2026** Our paper on [uncertainty-aware data mixture optimization for MLLM midtraining](https://openreview.net/forum?id=67r0Aq1XWL) has been accepted by ICLR 2026 Workshop DATA-FM!
