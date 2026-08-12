@@ -33,13 +33,13 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=Jt0E6FEAAAAJ&hl=en
+  - icon: brands/x
+    url: https://twitter.com/bingbingwen1
   - icon: at-symbol
     url: 'mailto:bingbw@uw.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/bingbingwen1
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=Jt0E6FEAAAAJ&hl=en
 
 interests:
   - Developing data‑ and compute‑efficient methods that enable foundation models to learn, adapt, and allocate resources optimally across tasks and data sources—from training through inference
