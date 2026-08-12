@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: Final-year Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -178,10 +178,10 @@ awards:
 ---
 
 
-I am a final-year Ph.D. candidate at the University of Washington, where I am advised by [Prof. Bill Howe](https://faculty.washington.edu/billhowe/) and [Prof. Lucy Lu Wang](https://www.llwang.net/). I am also a member of the UW RAISE Center and collaborate closely with [Prof. Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/).
+I am a final-year Ph.D. candidate at the University of Washington, advised by [Prof. Bill Howe](https://faculty.washington.edu/billhowe/) and [Prof. Lucy Lu Wang](https://www.llwang.net/). I am a member of the UW RAISE Center and collaborate with [Prof. Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/).
 
-My research focuses on the **efficiency and reliability of foundation models and agentic systems**, aiming to reduce computational overhead while enhancing model trustworthiness. My work is structured around three core pillars:
+My research builds closed loops for data-model co-evolution: models expose capability gaps, those gaps drive new training data, learning produces stronger models, and rigorous evaluation verifies the gains.
 
-* **Data-Centric Optimization:** I develop methods for optimal data mixture selection and curation, designing fine-grained preference signals that align models beyond simple correctness. [ICLR2026DATA-FM](https://openreview.net/forum?id=67r0Aq1XWL),[COLM25](https://arxiv.org/pdf/2407.20177)
-* **Agent Workflows & Modular Architectures:** I design adaptive systems that optimize tool use and dynamic routing mechanisms. My work explores how reinforcement learning can orchestrate collaboration among specialized experts to streamline complex agent workflows. [TACL2025](https://arxiv.org/pdf/2407.18418),[ICML2025](https://openreview.net/pdf?id=EQIBB1BA6Y),[IUI2026](https://arxiv.org/abs/2510.11035),[CoA](https://arxiv.org/abs/2601.16400)
-* **Reliability-Aware Evaluation:** I design frameworks for selective prediction and abstention, enabling models to quantify uncertainty and conserve resources by avoiding unnecessary computation on low-confidence samples. [ACL2025](https://arxiv.org/pdf/2506.00582), [EMNLP2024](https://arxiv.org/abs/2404.12452),[Neurips2025](https://arxiv.org/abs/2506.18322)
+* **Evolve Data:** Use model feedback to optimize data mixtures and generate tasks, datasets, and reasoning traces near the model's capability frontier. (MixAtlas, AutoScale, STOP)
+* **Evolve Models:** Train models and agents to learn from evolving experience through reinforcement learning, modular architectures, model merging, and efficient adaptation. (Agentic Abstention, Clarify or Answer, MARVEL, Know Your Limits)
+* **Verify Progress:** Test calibration, abstention, robustness, safety, and evaluation quality to distinguish real gains from overconfidence, shortcuts, and flawed measurement. (Confidence calibration, ScienceQA Abstention, SusBench)
