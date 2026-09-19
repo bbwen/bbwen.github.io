@@ -56,6 +56,8 @@ sections:
       title: '📰 News'
       subtitle: ''
       text: |-
+        **9/2026** Our paper [STOP: Structured On-Policy Pruning of Long-Form Reasoning in Low-Data Regimes](https://arxiv.org/abs/2605.13165) has been accepted to EMNLP 2026!
+
         **8/2026** Our paper [Illusions of the Gold Standard: A Large-scale Analysis of Human Evaluation Protocols for Long-form Text Generation](https://aclanthology.org/2026.acl-long.635/) won the ACL 2026 SAC Award!
 
         **8/2026** Our papers [Clarify or Answer (CoA)](https://arxiv.org/abs/2601.16400) and [MMMG](https://arxiv.org/abs/2505.17613) have been accepted to COLM 2026!
