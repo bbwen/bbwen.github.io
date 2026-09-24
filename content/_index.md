@@ -33,6 +33,8 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      sort_by: Weight
+      sort_ascending: true
       filters:
         folders:
           - publications
@@ -43,6 +45,8 @@ sections:
   - block: collection
     content:
       title: Recent Publications
+      sort_by: Weight
+      sort_ascending: true
       text: ''
       filters:
         folders:
@@ -56,6 +60,8 @@ sections:
       title: '📰 News'
       subtitle: ''
       text: |-
+        **9/2026** Our paper [Agentic Abstention: Do Agents Know When to Stop Instead of Act?](https://lhannnn.github.io/agentic-abstention/) has been accepted to NeurIPS 2026!
+
         **9/2026** Our paper [STOP: Structured On-Policy Pruning of Long-Form Reasoning in Low-Data Regimes](https://arxiv.org/abs/2605.13165) has been accepted to EMNLP 2026!
 
         **8/2026** Our paper [Illusions of the Gold Standard: A Large-scale Analysis of Human Evaluation Protocols for Long-form Text Generation](https://aclanthology.org/2026.acl-long.635/) won the ACL 2026 SAC Award!

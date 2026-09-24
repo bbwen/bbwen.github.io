@@ -14,6 +14,7 @@ abstract: "We study agentic abstention, the ability of tool-using LLM agents to 
 summary: "A benchmark and analysis of when tool-using LLM agents should stop and abstain rather than continue acting."
 doi: ""
 featured: true
+weight: -1
 tags:
   - Agentic Systems
   - Abstention

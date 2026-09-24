@@ -37,8 +37,14 @@ profiles:
     url: https://scholar.google.com/citations?user=Jt0E6FEAAAAJ&hl=en
   - icon: brands/x
     url: https://twitter.com/bingbingwen1
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/bingbing-wen-18593570
+    label: LinkedIn
+  - icon: brands/github
+    url: https://github.com/bbwen
+    label: GitHub
   - icon: at-symbol
-    url: 'mailto:bingbw@uw.edu'
+    url: 'mailto:wen.bbing@gmail.com'
     label: E-mail Me
 
 education:
